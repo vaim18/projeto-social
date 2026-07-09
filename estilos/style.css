@@ -29,6 +29,7 @@ section#telefone {
     position: absolute;
     top: 50%;
     left: 50%;
+
     transform: translate(-50%, -50%);
     height: 627px;
     width: 311px;
@@ -36,7 +37,7 @@ section#telefone {
 }
 
 /* Psicionando o conteúdo */
-iframe#tela-home {
+iframe#tela {
     position: relative;
     top: 80px;
     left: 22px;

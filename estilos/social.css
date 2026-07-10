@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+/* Folha de Estilo das páginas: 
+    youtube.html
+    github.html
+    twitter.html
+    instagram.html
+    facebook.html
+*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    heigth: 0px;
+}
+
+img {
+    width: 100vw;
+}
+
+a {
+    display: block;
+    background-color: darkred;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bolder;
+    
+}
+ 
+a:hover {
+    background-color: red;
+}
+
